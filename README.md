@@ -7,7 +7,7 @@ Cheng Ding (cheng.ding2@emory.edu)
 Functions
 ---------
 
-bmi510package includes the following functions:
+This repo includes the following functions:
 
 -   `rando()`: A wrapper around `sample()` for randomly sampling atomic vectors or dataframe-like objects.
 -   `is_min()` and `is_max()`: Functions to identify the minimum or maximum values in an atomic vector.
